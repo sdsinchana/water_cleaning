@@ -74,7 +74,7 @@ Please contact me for more information.`;
     const encodedMessage = encodeURIComponent(whatsappMessage);
     
     // Open WhatsApp with pre-filled message
-    const whatsappURL = `https://wa.me/918105447035?text=${encodedMessage}`;
+    const whatsappURL = `https://wa.me/919353000232?text=${encodedMessage}`;
     window.open(whatsappURL, '_blank');
     
     // Show success message
